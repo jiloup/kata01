@@ -1,4 +1,4 @@
-Type de format d'entré :
+Type de format d'input :
 
 un montant / un nom d'objets / à / un montant / €
 
